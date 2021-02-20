@@ -1,6 +1,6 @@
 Coursera Project: Segmenting and Clustering Neighborhoods in Toronto
 ***
-In thi notebook was neccesary:
+In this notebook was neccesary:
 * create dataframe
 * process dataframe
 * concatenate two dataframes
