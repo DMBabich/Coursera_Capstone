@@ -10,4 +10,4 @@ This repositories have 2 folder:
 - Segmenting and clustering neighborhoods
 - - Education project
 
-![](https://vistr.dev/badge?repo=DMBabich.Coursera_Capstone)
+![](https://vistr.dev/badge?repo=DMBabich/Coursera_Capstone)
